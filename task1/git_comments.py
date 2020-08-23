@@ -1,6 +1,6 @@
 print("This is my program")
 
-idx = 0
+idx = 10
 
 while idx >= 0:
     print(idx)
