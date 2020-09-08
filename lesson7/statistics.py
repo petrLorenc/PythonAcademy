@@ -1,4 +1,4 @@
-from lesson6.our_module.statistics import is_flat_right
+from lesson7.our_module.statistics import is_flat_right
 
 UDAJE = """
 byt 0001,55 m2,Olomouc,ul.Heyrovského,
