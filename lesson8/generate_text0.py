@@ -1,0 +1,1 @@
+# generate a text information extracted from books
