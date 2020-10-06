@@ -1,0 +1,10 @@
+
+FILE <ipython-input-3-0f2d8f88fc6d> / FUNCTION: avg / LINE 6: 
+	return my_sum(sequence) / count(sequence)
+
+NameError: name 'my_sum' is not defined
+
+FILE <ipython-input-4-c1edb7434d2c> / FUNCTION: avg / LINE 6: 
+	return my_sum(sequence) / count(sequence)
+
+NameError: name 'my_sum' is not defined
